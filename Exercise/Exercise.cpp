@@ -49,5 +49,5 @@ int main() {
 	//cout << "Status kelulusan = ' << st;
 	//cout << "Status kelulusan = " << status(rata);
 	cout << "Status kelulusan = " << status(rerata(nilM, nilB);
-	return 0;
+	return 0; 
 }
